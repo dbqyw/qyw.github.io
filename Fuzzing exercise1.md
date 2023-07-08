@@ -29,10 +29,11 @@
 <p><img width="369" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/6c4ef3ea-cdd9-4520-81f5-77c3b2701fea"></p>
 <p><img width="362" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/27ed4844-df74-42cc-9b6b-d7c7fe99bbe9"></p>
  构建AFL++
-<img width="367" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/d7b85617-91b2-41a2-80e1-d15ba0a10d85">
-<img width="242" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/4c66183c-34bb-46ee-b008-e1b1ce70b535">
-<img width="361" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/233e6290-8b6e-42ff-8722-3debcb2889eb">
-<img width="416" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/f1b66699-a192-43f6-a954-e7716a33f920">
-<img width="272" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/b0ef1543-f015-487d-9f51-011395fafa21">
+<p><img width="367" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/d7b85617-91b2-41a2-80e1-d15ba0a10d85"></p>
+<p><img width="367" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/d7b85617-91b2-41a2-80e1-d15ba0a10d85"></p>
+<p><img width="242" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/4c66183c-34bb-46ee-b008-e1b1ce70b535"></p>
+<p><img width="361" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/233e6290-8b6e-42ff-8722-3debcb2889eb"></p>
+<p><img width="416" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/f1b66699-a192-43f6-a954-e7716a33f920"></p>
+<p><img width="272" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/b0ef1543-f015-487d-9f51-011395fafa21"></p>
 <p>afl-fuzz查看是否安装成功</p>
-<img width="379" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/28d2f364-f8b7-4319-aec9-8f7a13423e9e">
+<p><img width="379" alt="image" src="https://github.com/dbqyw/qyw.github.io/assets/130265921/28d2f364-f8b7-4319-aec9-8f7a13423e9e"></p>
